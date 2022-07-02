@@ -43,6 +43,7 @@ namespace Hesh
             answ = new double[8];
             label1.Visible = false;
             label2.Visible = false;
+            /////tryty4rtyytuy8
             label3.Visible = false;
             button1.Visible = false;
             bestStrat = new int[2, 2];
