@@ -1,0 +1,10 @@
+C:\Users\grenz\Downloads\Hesh\Hesh\bin\Debug\Hesh.exe.config
+C:\Users\grenz\Downloads\Hesh\Hesh\bin\Debug\Hesh.exe
+C:\Users\grenz\Downloads\Hesh\Hesh\bin\Debug\Hesh.pdb
+C:\Users\grenz\Downloads\Hesh\Hesh\obj\Debug\Curshavaya.csproj.AssemblyReference.cache
+C:\Users\grenz\Downloads\Hesh\Hesh\obj\Debug\Hesh.Form1.resources
+C:\Users\grenz\Downloads\Hesh\Hesh\obj\Debug\Hesh.Properties.Resources.resources
+C:\Users\grenz\Downloads\Hesh\Hesh\obj\Debug\Curshavaya.csproj.GenerateResource.cache
+C:\Users\grenz\Downloads\Hesh\Hesh\obj\Debug\Curshavaya.csproj.CoreCompileInputs.cache
+C:\Users\grenz\Downloads\Hesh\Hesh\obj\Debug\Hesh.exe
+C:\Users\grenz\Downloads\Hesh\Hesh\obj\Debug\Hesh.pdb

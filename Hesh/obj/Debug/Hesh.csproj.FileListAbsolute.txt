@@ -1,0 +1,10 @@
+D:\soft\C#\Hesh\Hesh\bin\Debug\Hesh.exe.config
+D:\soft\C#\Hesh\Hesh\bin\Debug\Hesh.exe
+D:\soft\C#\Hesh\Hesh\bin\Debug\Hesh.pdb
+D:\soft\C#\Hesh\Hesh\obj\Debug\Hesh.csprojAssemblyReference.cache
+D:\soft\C#\Hesh\Hesh\obj\Debug\Hesh.Form1.resources
+D:\soft\C#\Hesh\Hesh\obj\Debug\Hesh.Properties.Resources.resources
+D:\soft\C#\Hesh\Hesh\obj\Debug\Hesh.csproj.GenerateResource.cache
+D:\soft\C#\Hesh\Hesh\obj\Debug\Hesh.csproj.CoreCompileInputs.cache
+D:\soft\C#\Hesh\Hesh\obj\Debug\Hesh.exe
+D:\soft\C#\Hesh\Hesh\obj\Debug\Hesh.pdb
